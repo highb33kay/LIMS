@@ -1,2 +1,2 @@
 # Backend
-Backend Infrastructure of Co-Lab
+Backend Infrastructure of LIMS
